@@ -24,3 +24,14 @@ Employee leave management system(ELMS) divided into two modules :
 - View leave history.
 - Change his/her password.
 - Password recovery with a valid email ID and employee ID.
+
+## Output  
+
+<img width="959" alt="Emplyee_leave_img1" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/5fde13fd-3be4-49a0-923f-4c9ad3b66b6b">
+<img width="959" alt="Emplyee_leave_img2" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/be1e33da-26c4-440c-a97b-fae7c3ced5f7">
+<img width="959" alt="Emplyee_leave_img3" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/11b5603e-afa1-4692-b9ea-b939f333f84f">
+<img width="959" alt="Emplyee_leave_img4" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/df1beb71-9772-4442-94df-d1cfbe01ba65">
+<img width="959" alt="Emplyee_leave_img5" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/20dcc4e5-8b7b-4113-815d-05ddc6ce1c35">
+<img width="959" alt="Emplyee_leave_img6" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/e26429db-792d-47ee-9b0c-1157116dabd0">
+<img width="953" alt="Emplyee_leave_img7" src="https://github.com/NehaW4/Employee-Leave-Management-System-PHP/assets/92804162/7b602927-6742-4d30-b88b-fc62e61b924f">
+
